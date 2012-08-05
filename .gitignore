@@ -1,9 +1,4 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
+# Build files
+/Flash/build
 
-# Project property files
-.actionScriptProperties
-.flexProperties
-.settings/
-.project
+
